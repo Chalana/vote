@@ -36,7 +36,7 @@ $(document).pngFix( );
 	
 	<!--  start login-inner -->
 	<div id="login-inner">
-		<form method="post" action="superadminlogin.php">
+		<form method="post" action="superadmin.login.php">
 			<table border="0"  cellpadding="0" cellspacing="0">
 			<tr>
 				<th>Username</th>

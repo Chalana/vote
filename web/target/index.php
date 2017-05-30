@@ -12,7 +12,12 @@
         <title></title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="../src/resources/css/style.css">
+
+        <link rel="stylesheet" type="text/css" href="portal/lib/jqueryUI/jquery-ui/jquery-ui.css">
+        <link rel="stylesheet" type="text/css" href="portal/lib/jqueryUI/jquery-ui/jquery-ui.structure.css">
+        <link rel="stylesheet" type="text/css" href="portal/lib/jqueryUI/jquery-ui/jquery-ui.theme.css">
+
     </head>
     <body>
         <nav>
@@ -45,7 +50,10 @@
     <script type="text/javascript" src="portal/lib/jquery/jquery.min.js"></script>
     <script type="text/javascript" src="portal/lib/angular/angular.min.js"></script>
     <script type="text/javascript" src="portal/lib/angular/angular-route.min.js"></script>
+    <script type="text/javascript" src="portal/lib/jqueryUI/jquery-3.1.1.js"></script>
+    <script type="text/javascript" src="portal/lib/jqueryUI/jquery-ui/jquery-ui.js"></script>
     <script type="text/javascript" src="../src/resources/js/app.jquery.js"></script>
+    <script type="text/javascript" src="../src/resources/js/template.jquery.js"></script>
     <script type="text/javascript" src="../src/resources/js/app.js"></script>
-<script type="text/javascript" src="templates/createElection.js"></script>
+
 </html>

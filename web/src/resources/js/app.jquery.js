@@ -1,4 +1,7 @@
- $('document').ready(function() {
+/**
+ * Created by Chalana Madusanka
+ */
+$('document').ready(function() {
 	var bodyEl = $('body'),
     navToggleBtn = bodyEl.find('.nav-toggle-btn');
             
@@ -8,3 +11,4 @@
 	});
 
 });
+

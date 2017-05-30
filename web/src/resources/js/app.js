@@ -1,4 +1,6 @@
-
+/**
+ * Created by Chalana Madusanka
+ */
 var myApp = angular.module("myModule", ["ngRoute"])
     .config(function($routeProvider) {
         $routeProvider
@@ -25,7 +27,7 @@ var myApp = angular.module("myModule", ["ngRoute"])
     })
 	
     .controller("myController11", function($scope) {
-		$scope.msg = "hi chalana";
+
     })
 
 
